@@ -1,0 +1,15 @@
+*.log
+log/
+lib/
+target/
+*.class
+.ensime_cache/
+git_backup/
+depo/
+*.jar
+out/
+packages/
+.idea/
+GPATH
+GRTAGS
+GTAGS
